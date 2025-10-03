@@ -181,6 +181,7 @@ function App() {
               <a
   href="https://docs.google.com/document/d/1VTjPyx07QO_1-9lqp1qiAODz-dfFM3oE/edit?usp=sharing&ouid=102900673067841125183&rtpof=true&sd=true"
   target="_blank"
+  style={{fontSize: "15px"}}
   rel="noopener noreferrer"
   class="inline-flex text-lg items-center gap-2 mt-4 text-white px-5 py-2.5 rounded-lg font-medium text-sm
          bg-white/20 backdrop-blur-md border border-white/30
