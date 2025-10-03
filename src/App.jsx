@@ -162,7 +162,7 @@ function App() {
 
           {/* Informações adicionais */}
           <div className="text-center mt-16">
-            <div className="bg-white/10 backdrop-blur-md rounded-xl p-8 border border-white/20 max-w-2xl mx-auto">
+            <div className="bg-white/10 flex flex-col backdrop-blur-md rounded-xl p-8 border border-white/20 max-w-2xl mx-auto">
               <h3 className="text-2xl font-bold text-white mb-4">Informações Importantes</h3>
               <p className="text-gray-300 mb-4">
                 Ingressos disponíveis no local ou através do site oficial
