@@ -187,7 +187,7 @@ function App() {
          bg-white/20 backdrop-blur-md border border-white/30
          hover:bg-white/30"
 >
-  Acesse o regulamento
+  Acesse o Regulamento
 </a>
             </div>
           </div>
